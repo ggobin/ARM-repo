@@ -21,6 +21,6 @@ steps:
     location: 'France Central'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/ggobin/ARM-repo/main/createWebapp/azuredeploy.json'
-    overrideParameters: '-projectName projetpipelinearm'
+    overrideParameters: '-projectName pipearm'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
